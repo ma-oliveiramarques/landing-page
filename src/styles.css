@@ -1,6 +1,6 @@
 
 body {
-  background-image: url(/img/wrightsvillebeach.jpg);
+  background-image: url(../img/wrightsvillebeach.jpg);
   background-repeat: repeat;
   background-attachment: fixed;
   background-size:cover;
